@@ -28,3 +28,19 @@ This observation motivates the theoretical concept of an abstract data type, a d
 indirectly by the operations that may be performed on it, and the mathematical properties of those operations 
 (including their space and time cost).
 some examples of primitive data structures is: array,linkedlist,record,union, tagged union,object,graphs,trees.
+/////
+Data structures are used in computing to make it easy to locate and retrieve information. 
+Primitive data structures are simple ways for programming languages to represent basic values. 
+These include data types like integer, char (character), Boolean, pointers, and the like. 
+Non-primitive data structures provide ways of storing multiple values in a single variable. 
+These include arrays, lists, stacks, trees, and so forth. 
+Data structures can also be used to group and organize other data structures. 
+In databases, a record can be thought of as a data structure that contains all the data structures related to a given key; 
+in object oriented programming languages like Java, a class is a data structure that organizes attributes and functions 
+in such a way that they can be easily replicated. In each case, the way the data is "structured" makes it easy to 
+retrieve or manipulate.
+/////
+A data structure is a specialized format for organizing and storing data. 
+General data structure types include the array, the file, the record, the table, the tree, and so on. 
+Any data structure is designed to organize data to suit a specific purpose so that it can be accessed and worked with in appropriate ways. 
+In computer programming, a data structure may be selected or designed to store data for the purpose of working on it with various algorithms.
